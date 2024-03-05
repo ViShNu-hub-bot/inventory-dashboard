@@ -8,11 +8,11 @@ This dashboard provides vital metrics, matrix views, and visualizations to analy
 
 ## Key Insights
 
-- 🔹 **Cards:** Showcase vital metrics such as Total Inv Units, Inventory Value, and Revenue.
-- 🔹 **Matrix View:** Display Product ID, Product Name, Inventory, Selling Price, and Inventory Value.
-- 🔹 **Clustered Bar Chart:** Reveal the top 10 inventory stock products and top 10 lowest inventory products.
-- 🔹 **Clustered Column Chart:** Display sales revenue by quarter.
-- 🔹 **Area Chart:** Illustrate the sum of revenue by quarter.
+-  **Cards:** Showcase vital metrics such as Total Inv Units, Inventory Value, and Revenue.
+-  **Matrix View:** Display Product ID, Product Name, Inventory, Selling Price, and Inventory Value.
+-  **Clustered Bar Chart:** Reveal the top 10 inventory stock products and top 10 lowest inventory products.
+-  **Clustered Column Chart:** Display sales revenue by quarter.
+-  **Area Chart:** Illustrate the sum of revenue by quarter.
 
 ## Accessing the Dashboard
 
